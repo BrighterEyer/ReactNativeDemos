@@ -1,0 +1,3 @@
+rootProject.name = 'DraftingView'
+
+include ':app'
