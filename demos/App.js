@@ -23,6 +23,7 @@ import FlatListBasics from './components/FlatListBasics';
 import SectionListBasics from './components/SectionListBasics';
 import FetchExample from './components/FetchExample';
 import SampleAppMovies from './components/SampleAppMovies';
+import MyWeb from './components/MyWeb';
 
 const instructions = Platform.select({
     ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -53,6 +54,8 @@ export default class App extends Component < Props > {
               <FlatListBasics/>
               <SectionListBasics/>
               <FetchExample/>
+              <SampleAppMovies/>
+              <MyWeb/>
               */}
               <SampleAppMovies/>
           </View>
