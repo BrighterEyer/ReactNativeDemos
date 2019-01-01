@@ -1,0 +1,38 @@
+{
+  "name": "ThirtyDaysDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "gl-react": "^3.14.0",
+    "gl-react-native": "^3.14.0",
+    "prop-types": "^15.6.2",
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-chart": "^1.0.8-beta",
+    "react-native-gesture-password": "^0.2.1",
+    "react-native-git-upgrade": "^0.2.7",
+    "react-native-linear-gradient": "^1.6.2",
+    "react-native-maps": "^0.11.0",
+    "react-native-scrollable-tab-view": "^0.10.0",
+    "react-native-swipe-cards": "0.0.9",
+    "react-native-swiper": "^1.4.9",
+    "react-native-touch-id": "^4.3.0",
+    "react-native-vector-icons": "^4.3.0",
+    "react-native-video": "^0.9.0",
+    "react-native-webgl": "^0.8.0"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
