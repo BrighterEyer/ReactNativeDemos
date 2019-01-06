@@ -1,0 +1,3 @@
+rootProject.name = 'MyShuDu'
+
+include ':app'
