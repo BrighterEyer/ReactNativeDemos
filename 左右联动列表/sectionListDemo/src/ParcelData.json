@@ -1,0 +1,273 @@
+[
+ {
+  "section" : "热销",
+  "data" : [
+   {
+    "name" : "蟹黄汤包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "20",
+    "img":"http://p1.meituan.net/deal/__39230311__3449301.jpg"
+   },
+   {
+    "name" : "小馄饨",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/849d8b59a2d9cc5864d65784dfd6fdc6105232.jpg"
+   },
+   {
+    "name" : "蟹黄汤包+牛杂粉丝汤套餐",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "35",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "鸭血粉丝汤",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "15",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   }
+  ]
+ },
+ {
+  "section" : "介绍我们",
+  "data" : [
+   {
+    "name" : "慎用差评！任何问题联系我们就可解决哦",
+    "sale" : "月售1",
+    "favorite" : "赞0",
+    "money" : "0",
+    "img":"http://p1.meituan.net/deal/__39230311__3449301.jpg"
+   }
+  ]
+ },
+ {
+  "section" : "折扣套餐",
+  "data" : [
+   {
+    "name" : "特色蟹黄汤包+鸭血粉丝汤+果汁套餐",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "50",
+    "img":"http://p1.meituan.net/deal/__39230311__3449301.jpg"
+   },
+   {
+    "name" : "蟹黄汤包+牛杂粉丝汤套餐",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "35",
+    "img":"http://p1.meituan.net/deal/849d8b59a2d9cc5864d65784dfd6fdc6105232.jpg"
+   },
+   {
+    "name" : "蟹黄汤包+南瓜粥+果汁套餐",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "金牌蟹黄汤包+紫米粥+柠檬果汁套餐",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "台式卤肉饭+南瓜粥套餐",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   }
+  ]
+ },
+ {
+  "section" : "纯手工汤宝",
+  "data" : [
+   {
+    "name" : "金牌蟹黄汤包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/__39230311__3449301.jpg"
+   },
+   {
+    "name" : "蟹庭丰特色蟹黄汤包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/849d8b59a2d9cc5864d65784dfd6fdc6105232.jpg"
+   },
+   {
+    "name" : "蟹黄汤包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "干贝汤包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "鲍鱼汤包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "全家福汤包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "虾仁汤包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   }
+  ]
+ },
+ {
+  "section" : "汤、粥类",
+  "data" : [
+   {
+    "name" : "紫米粥",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/__39230311__3449301.jpg"
+   },
+   {
+    "name" : "金丝南瓜粥",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/849d8b59a2d9cc5864d65784dfd6fdc6105232.jpg"
+   },
+   {
+    "name" : "小米粥",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "白粥",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   }
+  ]
+ },
+ {
+  "section" : "面食类",
+  "data" : [
+   {
+    "name" : "鸡汤面",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/__39230311__3449301.jpg"
+   },
+   {
+    "name" : "红烧小排面",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/849d8b59a2d9cc5864d65784dfd6fdc6105232.jpg"
+   },
+   {
+    "name" : "红烧牛肉面",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   }
+  ]
+ },
+ {
+  "section" : "调味小菜",
+  "data" : [
+   {
+    "name" : "肉松",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/__39230311__3449301.jpg"
+   },
+   {
+    "name" : "辣椒包",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/849d8b59a2d9cc5864d65784dfd6fdc6105232.jpg"
+   },
+   {
+    "name" : "泡菜",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "酱黄瓜",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "萝卜干",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   }
+  ]
+ },
+ {
+  "section" : "饮料",
+  "data" : [
+   {
+    "name" : "可乐",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/__39230311__3449301.jpg"
+   },
+   {
+    "name" : "雪碧",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p1.meituan.net/deal/849d8b59a2d9cc5864d65784dfd6fdc6105232.jpg"
+   },
+   {
+    "name" : "王老吉",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   },
+   {
+    "name" : "橙汁",
+    "sale" : "月售875",
+    "favorite" : "赞31",
+    "money" : "10",
+    "img":"http://p0.meituan.net/deal/ed3025663342b126eaae24764704b017136487.jpg"
+   }
+  ]
+ }
+]
