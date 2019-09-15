@@ -1,0 +1,4 @@
+module.exports = {
+  IOS_LXY_KEY: 'U2FsdGVkX18cpkVER23U5PNi5PBX5KLA/h6yGesmEE4=', // 小黑IOS
+  ANDROID_LXY_DKEY: 'U2FsdGVkX19pGXJl7rtdgVE3LmSvRIYQ6Ku+dmEkDHo=', // 小黑ANDROID
+};

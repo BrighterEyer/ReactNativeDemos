@@ -1,0 +1,14 @@
+{
+  "name": "Mozi",
+  "displayName": "Mozi",
+  "window": {
+     "headerBackgroundColor": "#262a37",
+     "headerTitleStyle" : {
+      "alignSelf": "center",
+      "textAlign": "center",
+      "flex": 1,
+      "fontSize": 18,
+      "color": "#FFFFFF",
+    }
+  }
+}
