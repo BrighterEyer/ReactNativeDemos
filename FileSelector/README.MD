@@ -32,6 +32,9 @@ allprojects {
         mavenLocal()
         jcenter()
         maven { url "https://maven.google.com" }
+        maven {
+            url  "http://dl.bintray.com/lukaville/maven"
+        }
         ...
     }
 }
